@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Saniodxz/pokemonMemoryGame/static/css/main.5b368172.css",
+    "main.js": "/Saniodxz/pokemonMemoryGame/static/js/main.ea6cbc50.js",
+    "static/media/1919684.webp": "/Saniodxz/pokemonMemoryGame/static/media/1919684.308554c275af27a8d64e.webp",
+    "index.html": "/Saniodxz/pokemonMemoryGame/index.html",
+    "main.5b368172.css.map": "/Saniodxz/pokemonMemoryGame/static/css/main.5b368172.css.map",
+    "main.ea6cbc50.js.map": "/Saniodxz/pokemonMemoryGame/static/js/main.ea6cbc50.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b368172.css",
+    "static/js/main.ea6cbc50.js"
+  ]
+}
